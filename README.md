@@ -1,8 +1,3 @@
-username: admin@gmail.com
-   password: password123
-
-username: pembeli@gmail.com
-   password: password123
 
 Sistem Informasi Penjualan Bibit Kelapa Sawit di UD. Putri Hijau
 
